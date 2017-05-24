@@ -1,5 +1,6 @@
 /*
  * http://practice.geeksforgeeks.org/problems/find-the-odd-occurence/0
+ * Amazon, Snapdeal
  */
  
 import java.util.*;
